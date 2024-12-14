@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<package>
+    <metadata>
+        <id>DPoliarush</id>
+        <version>1.0.0</version>
+        <authors>Danylo Poliarush</authors>
+        <description>ClassLibraryLab3</description>
+        <dependencies>
+        </dependencies>
+    </metadata>
+</package>
